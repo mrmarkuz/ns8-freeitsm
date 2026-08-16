@@ -1042,9 +1042,9 @@
     glob-to-regexp "^0.3.0"
 
 "@nethserver/ns8-ui-lib@^1.5.0":
-  version "1.12.3"
-  resolved "https://registry.yarnpkg.com/@nethserver/ns8-ui-lib/-/ns8-ui-lib-1.12.3.tgz#3b135deaa0afc1891574e7e54023ea58a137d572"
-  integrity sha512-s1SgRurwaGAEUWBE2cu4RtQDIp3zQUAz5EwQSU3ggeVbYLD2KNwrgOOt+S34qYluMkp6+1CbenNfGbDmrwNzDQ==
+  version "1.12.4"
+  resolved "https://registry.yarnpkg.com/@nethserver/ns8-ui-lib/-/ns8-ui-lib-1.12.4.tgz#8342890fdb6e3e589fb62297b0ffda939fc3ade9"
+  integrity sha512-lGlndnoKh/DHf/iSQgwiusRrnRCJC6H40MKTRzr9YRaX35zignTpKE55FfgBp9uhjtTbOMZlyYdq1rXqdw1hfA==
   dependencies:
     "@rollup/plugin-json" "^4.1.0"
     core-js "^3.15.2"
@@ -2967,7 +2967,12 @@ core-js-compat@^3.14.0, core-js-compat@^3.15.0, core-js-compat@^3.6.5:
     browserslist "^4.16.6"
     semver "7.0.0"
 
-core-js@^3.15.2, core-js@^3.6.5:
+core-js@^3.15.2:
+  version "3.50.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.50.0.tgz#a18646fcb0097650189b4504c803e887bcae4c0a"
+  integrity sha512-BRWgOLKkFeCgRudR6zrs8p9XJZcE14grzKMMssoYrk6krtuEZ7MTKPIY5RzOnqsEKIR9kst7wNzphttraT+Yqw==
+
+core-js@^3.6.5:
   version "3.49.0"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.49.0.tgz#8b4d520ac034311fa21aa616f017ada0e0dbbddd"
   integrity sha512-es1U2+YTtzpwkxVLwAFdSpaIMyQaq0PBgm3YD1W3Qpsn1NAmO3KSgZfu+oGSWVu6NvLHoHCV/aYcsE5wiB7ALg==
