@@ -949,10 +949,10 @@
   dependencies:
     "@ibm/telemetry-js" "^1.5.0"
 
-"@carbon/icon-helpers@^10.53.1":
-  version "10.74.0"
-  resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.74.0.tgz#212deff9469a50f993deaa72691cc31454e07dbd"
-  integrity sha512-3i498EDg7fG8uLTd38gXckKUiPOSpOLKuSvdvedZs5TCIAc9HLpsx3aQithvZ3zhggKeMFFX/k6aBemZb6i7vA==
+"@carbon/icon-helpers@^10.84.0":
+  version "10.84.0"
+  resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.84.0.tgz#54cb2a7c12cb912efa6caa45f3f610ef7bd30538"
+  integrity sha512-G+LVR42568CbluBzu7uV+ZMmI5tT2ojnWCmRgDB8Z3xKls1D5DU6fQHyiAg10JjLo+zBGUih6eEVSCqq9oXkEw==
   dependencies:
     "@ibm/telemetry-js" "^1.5.0"
 
@@ -964,11 +964,11 @@
     "@carbon/icon-helpers" "^10.37.0"
 
 "@carbon/icons-vue@^10.37.0":
-  version "10.99.1"
-  resolved "https://registry.yarnpkg.com/@carbon/icons-vue/-/icons-vue-10.99.1.tgz#32ce73c6271e23226b1dc092b541f6ee269c1be0"
-  integrity sha512-VC0mRjGri+Ghv8Zkk3iUoaVYUTHLstXj5sB+qYnqPi1sKlE8lUOokgO+r8ReipFUq3um8xze/BXzEjWJQtYC6A==
+  version "10.139.0"
+  resolved "https://registry.yarnpkg.com/@carbon/icons-vue/-/icons-vue-10.139.0.tgz#f558799595fe03b223cf2c802e8838a8d55dca1a"
+  integrity sha512-Ud5mjMTJjpY6g6RnX3Vn5PmiFpiLHNKke/bR75C4v3wVJfiM25P+ErePr6unZLnjxWMk/jkGq3ygZWIdFo2AUA==
   dependencies:
-    "@carbon/icon-helpers" "^10.53.1"
+    "@carbon/icon-helpers" "^10.84.0"
     "@ibm/telemetry-js" "^1.5.0"
 
 "@carbon/telemetry@0.1.0", "@carbon/telemetry@^0.1.0":
@@ -1020,9 +1020,9 @@
     "@hapi/hoek" "^8.3.0"
 
 "@ibm/telemetry-js@^1.5.0":
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/@ibm/telemetry-js/-/telemetry-js-1.11.0.tgz#3270e7b7ec8f30eb940e1d28448315ea9287062e"
-  integrity sha512-RO/9j+URJnSfseWg9ZkEX9p+a3Ousd33DBU7rOafoZB08RqdzxFVYJ2/iM50dkBuD0o7WX7GYt1sLbNgCoE+pA==
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/@ibm/telemetry-js/-/telemetry-js-1.12.0.tgz#d935716e254c043f87e37aa4373ab57fd4a1786b"
+  integrity sha512-tNgmk2k8loNDTnPInlu7yMP9YOCr9UMwSnXN7SCEsGIV8xHfTawhXlDnp1PV0Lbv+2GoLQKSgkShlJeGPi4jTg==
 
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
